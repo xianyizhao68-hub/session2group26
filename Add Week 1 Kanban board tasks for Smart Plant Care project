@@ -1,0 +1,36 @@
+# Smart Plant Care Kanban Board — Week Tasks
+
+## Sprint Goal
+By the end of this week, a real user can receive alerts when the soil moisture, temperature, or pH is out of range — it works completely, not just as a mockup.
+
+---
+
+## User Story 1
+1. As a plant owner  
+2. I want to receive alerts when the soil moisture is too low  
+3. So that I can water my plants on time and prevent them from drying out
+
+---
+
+## To Do
+- [ ] Select sensors: soil moisture, temperature, pH — Alice
+- [ ] Plan hardware connections (sensor → microcontroller) — Bob
+- [ ] Design data collection program — Charlie
+- [ ] Define alert rules (low moisture / abnormal temp / pH out of range) — Alice
+- [ ] Decide alert method (screen, buzzer, mobile notification) — Bob
+
+---
+
+## Doing
+- [ ] Calibrating sensors and collecting data — Alice
+- [ ] Process sensor data (normalize pH, convert temp/humidity) — Charlie
+- [ ] Implement threshold logic for watering/fertilizing alerts — Bob
+- [ ] Test basic alert system (screen or buzzer) — Alice
+
+---
+
+## Done
+- [ ] Hardware prototype built — Bob
+- [ ] Real-time recording of temperature, humidity, and pH — Charlie
+- [ ] Threshold logic implemented — Alice
+- [ ] Basic alerts working — Bob
